@@ -1,0 +1,11 @@
+# Virtual Environment
+venv/
+fastapi/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE folders
+.vscode/
+.idea/
