@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+sqlalchemy
+alembic
+pydantic[email]
+psycopg2-binarypip list
